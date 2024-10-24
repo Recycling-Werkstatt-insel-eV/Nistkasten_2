@@ -1,9 +1,3 @@
-# Vogelhaus 1 (Name ggf. ändern) Bauanleitung
-
-# Beschreibung
-(Einleitungstext)
-
-
 (Vorlagen für weitere Bearbeitung, kann später gelöscht werden):
 
 Liste mit Stichpunkten:
@@ -19,7 +13,14 @@ Bild:
 
 ![](Beispielbild.png)
 
-Die Datei "Beispielbild.png" muss im Ordner "Documentation" liegen (über "Upload file")
+Die Datei "Beispielbild.png" muss im Ordner "Documentation" liegen (über "Add file" oben rechts in der Ecke)
+Wichtig: wenn "png" im Dateinamen klein geschrieben ist, muss es auch hier klein stehen. Entsprechend bei PNG groß auch hier groß schreiben.
+
+# Vogelhaus 1 (Name ggf. ändern) Bauanleitung
+
+## Beschreibung
+(Kurzer Einleitungstext, der das Vogelhaus beschreibt)
+
 
 ## Material- und Werkzeugliste
 
