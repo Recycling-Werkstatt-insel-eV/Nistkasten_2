@@ -13,8 +13,10 @@ Bild:
 
 ![](Beispielbild.png)
 
-Die Datei "Beispielbild.png" muss im Ordner "Documentation" liegen (über "Add file" oben rechts in der Ecke)
+Die Datei "Beispielbild.png" muss im Ordner "Documentation" liegen (über "Add file" oben rechts in der Ecke > Upload files > Commit Changes (ganz unten).
 Wichtig: wenn "png" im Dateinamen klein geschrieben ist, muss es auch hier klein stehen. Entsprechend bei PNG groß auch hier groß schreiben.
+
+Zum Speichern der Datei: Commit changes (oben rechts)
 
 # Vogelhaus 1 (Name ggf. ändern) Bauanleitung
 
