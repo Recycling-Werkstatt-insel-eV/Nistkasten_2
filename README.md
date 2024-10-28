@@ -1,4 +1,4 @@
-# Vogelhaus 1 (Name ggf. ändern)
+# Vogelhaus 1 "Ivonne"
 
 (Beschreibung des Projekts / Vogelhauses)
 
