@@ -1,5 +1,13 @@
 __Anleitung__ Hier findet ihr die Bauanleitung von Vogelhaus "Ivonne". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolgenach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Beispiel werden 2 Baugruppen hergestellt, die schlussendlich zusammengesetzt werden. 
 
+__Benötigte Werkzeuge und Hilfsstoffe__
+
+1. Schraubendreher oder Akkuschrauber
+2. Schraubzwingen oder eine helfende Person
+3. unterschiedliche Schrauben: Für den Bau der Behausung M3 zwischen 12 und 40 mm (12 Stk.)
+   und für Montage Nägel oder Schrauben M3-M5 mit einer Mindestlänge von 80 mm (2 Stk.)
+4. Für abschließende Schönheitsarbeiten braucht ihr ggf. noch etwas Schleifpapier (Körnung 80-200) oder Holzpfeilen.) 
+
 __Baugruppe 1__ In Baugruppe 1 fertigst du den Hauptkörper des Vogelhauses. 
 __Schritt 1__ Zu Beginn werden die hölzernen Seitenwände mit der Bodenplatte verbunden. Hierzu benötigst du 3 Schraueben der Größe M3/M4 mit einer Mindestlänge von 25 mm, also mindestens 7 mm länger als die Platte dick ist (18mm)
 Tipp: Benutze einen Schraubstock, Schraubzwingen oder lasse dir beim Zsammenbau helfen, damit die Kanten der Bauteile bündig und rechtwinklig zueinander stehen, wenn du die Schrauben eindrehst. 
@@ -29,7 +37,7 @@ __Schritt 8__ Schraube nun mit 2 M3 Schrauben des Länge 25-28 mm das hintere Br
 ![Anleitung_Ivonne_Vogelhaus_Seite_14](https://github.com/user-attachments/assets/acc45eb2-c49a-4de1-8765-f94a06b8267b)
 Dein Vogelhaus ist nun __fertig__ aufgebaut.
 ![Anleitung_Ivonne_Vogelhaus_Seite_15](https://github.com/user-attachments/assets/69299495-ba28-4a36-95f1-17f36f131779)
-__Montage__ Jetzt geht es nur noch um die richtige Befestigung beim Aufhängen an einem geeigneten Baum oder bspw. einer Hauswand. Benutze - solltest du dich für einen Baum entscheiden-  wenn möglich Aluminiumnägel mit einer Länge von mindestens 8 cm. Nägel aus Eisen sind aber auch in Ordnung. 
+__Montage__ Jetzt geht es nur noch um die richtige Befestigung beim Aufhängen an einem geeigneten Baum oder bspw. einer Hauswand. Benutze - solltest du dich für einen Baum entscheiden-  wenn möglich Aluminiumnägel mit einer Länge von mindestens 80 mm. Nägel aus Eisen sind aber auch in Ordnung. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_16](https://github.com/user-attachments/assets/da3dc67f-e229-430b-a8b8-fa2055f486c0)
 ![Anleitung_Ivonne_Vogelhaus_Seite_17](https://github.com/user-attachments/assets/356a4d5c-6d2e-465d-93ec-6138e5f40aee)
 
