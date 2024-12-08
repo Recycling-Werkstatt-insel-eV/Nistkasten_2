@@ -29,7 +29,7 @@ __Schritt 8__ Schraube nun mit 2 M3 Schrauben des Länge 25-28 mm das hintere Br
 ![Anleitung_Ivonne_Vogelhaus_Seite_14](https://github.com/user-attachments/assets/acc45eb2-c49a-4de1-8765-f94a06b8267b)
 Dein Vogelhaus ist nun __fertig__ aufgebaut.
 ![Anleitung_Ivonne_Vogelhaus_Seite_15](https://github.com/user-attachments/assets/69299495-ba28-4a36-95f1-17f36f131779)
-__Montage__ Jetzt geht es nur noch um die richtige Befestigung beim Aufhängen an einem geeigneten Baum oder bspw. einer Hauswand aus Holz. Benutze hierfür wenn möglich Aluminiumnägel mit einer Länge von mindestens 8 cm. Nägel aus Eisen sind aber auch in Ordnung. 
+__Montage__ Jetzt geht es nur noch um die richtige Befestigung beim Aufhängen an einem geeigneten Baum oder bspw. einer Hauswand. Benutze - solltest du dich für einen Baum entscheiden-  wenn möglich Aluminiumnägel mit einer Länge von mindestens 8 cm. Nägel aus Eisen sind aber auch in Ordnung. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_16](https://github.com/user-attachments/assets/da3dc67f-e229-430b-a8b8-fa2055f486c0)
 ![Anleitung_Ivonne_Vogelhaus_Seite_17](https://github.com/user-attachments/assets/356a4d5c-6d2e-465d-93ec-6138e5f40aee)
 
