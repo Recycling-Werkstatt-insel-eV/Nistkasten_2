@@ -22,12 +22,12 @@ __Schritt 6__ Lege die innere Dachplatte aus Holz auf die äußere Dachplatte au
 ![Anleitung_Ivonne_Vogelhaus_Seite_10](https://github.com/user-attachments/assets/c3067cea-d0db-4c12-9eac-1406e4a12e47)
 
 __Zusamnenfügen der Baugruppen 1 und 2__ 
-__Schritt 7__ Du kannst nun folgendermaßen das Dach auf den Hauptkörper setzen. Achte daruaf, dass die eingefräste Kante des Daches und die Rückwand eine vertikale Linie bilden, damit sich das Kunststoffbrett zur Montage abstandslos befestigen lässt. 
+__Schritt 7__ Du kannst nun folgendermaßen das Dach auf den Hauptkörper setzen. Achte darauf, dass die eingefräste Kante des Daches und die Rückwand eine vertikale Linie bilden, damit sich das Kunststoffbrett zur Montage abstandslos befestigen lässt. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_12](https://github.com/user-attachments/assets/ae61cd50-c2e6-47c7-8e68-17af5400a305)
-__Schritt 8__ Schraube nun mit 2 M3 Schrauben des Länge 25-28 mm das hintere Brett aus Kunststoff fest. Achte daruaf, dass die Nägel nicxht kürzer oder länger als angegeben sind, damit die Konstruktion fest genug hält, die Nägel aber nicht ins Innere der Behausung ragen. 
+__Schritt 8__ Schraube nun mit 2 M3 Schrauben des Länge 25-28 mm das hintere Brett aus Kunststoff fest. Achte daruaf, dass die Nägel nicht kürzer oder länger als angegeben sind, damit die Konstruktion fest genug hält, die Nägel aber nicht ins Innere der Behausung durchragen. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_13](https://github.com/user-attachments/assets/a31b184d-b57e-4ede-a60a-de85bffa7696)
 ![Anleitung_Ivonne_Vogelhaus_Seite_14](https://github.com/user-attachments/assets/acc45eb2-c49a-4de1-8765-f94a06b8267b)
-Dein Vogelhaus ist nun __Fertig__ 
+Dein Vogelhaus ist nun __fertig__ aufgebaut.
 ![Anleitung_Ivonne_Vogelhaus_Seite_15](https://github.com/user-attachments/assets/69299495-ba28-4a36-95f1-17f36f131779)
 __Montage__ Jetzt geht es nur noch um die richtige Befestigung beim Aufhängen an einem geeigneten Baum oder bspw. einer Hauswand aus Holz. Benutze hierfür wenn möglich Aluminiumnägel mit einer Länge von mindestens 8 cm. Nägel aus Eisen sind aber auch in Ordnung. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_16](https://github.com/user-attachments/assets/da3dc67f-e229-430b-a8b8-fa2055f486c0)
