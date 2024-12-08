@@ -1,12 +1,12 @@
 __Anleitung__ Hier findet ihr die Bauanleitung von Vogelhaus "Ivonne". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolgenach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Beispiel werden 2 Baugruppen hergestellt, die schlussendlich zusammengesetzt werden. 
 
-__Benötigte Werkzeuge und Hilfsstoffe__
+__Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 
 1. Schraubendreher oder Akkuschrauber
 3. Schraubzwingen oder eine helfende Person
-4. unterschiedliche Schrauben: Für den Bau der Behausung M3 zwischen 12 und 40 mm (12 Stk.)
+4. Schrauben: Für den Bau der Behausung M3 zwischen 12 und 40 mm (12 Stk.)
    und für Montage Nägel oder Schrauben M3-M5 mit einer Mindestlänge von 80 mm (2 Stk.)
-5. Für abschließende Schönheitsarbeiten braucht ihr ggf. noch etwas Schleifpapier (Körnung 80-200) oder Holzpfeilen.) 
+5. Schleifpapier (Körnung 80-200) oder Holzpfeilen für Korrekturen oder abschließende Schönheitsarbeiten.
 
 __Baugruppe 1__ In Baugruppe 1 fertigst du den Hauptkörper des Vogelhauses. 
 __Schritt 1__ Zu Beginn werden die hölzernen Seitenwände mit der Bodenplatte verbunden. Hierzu benötigst du 3 Schraueben der Größe M3/M4 mit einer Mindestlänge von 25 mm, also mindestens 7 mm länger als die Platte dick ist (18mm)
