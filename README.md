@@ -1,7 +1,6 @@
 # Vogelhaus "Ivonne"
 Bei diesem Vogelhaus bestehen sind alle Materialien entweder wiederverwendbar oder wiederaufbereitet und somit auf jeden Fall nachhaltig und umweltfreundlich. Die Vorderseite ist so konstruiert, dass jede Behausung ein Unikat wird. Die einzelnen Platten sind verschieblich. Das und die Tatsache, dass alle Komponenten verschraubt sind, macht es komplett auseinandernehmbar. Teile können somit leicht ersetzt, ausgetauscht und gereinigt werden. Je nach Vogelart, ob Höhlen- oder Halbhöhlenbrüter kann die Öffnung der Vogelart angepasst werden. Die Kombination aus recyceltem Kunstoff und Holz erzeugt einen echten Hinkucker. 
 
-
 ![Deckbild](https://github.com/user-attachments/assets/0b7e2c4c-1637-4360-8e72-f03fff2ea9e2)
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
