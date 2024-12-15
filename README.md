@@ -22,7 +22,7 @@ Gefördert von der __deutschen Stiftung Engagement und Ehrenamt__ haben wir im L
 Hier sind die Links zu den Projektübersichten der anderen Vogelhäusern: 
 [Vogelhaus "Ivonne"](https://github.com/orcular-orga/vogelhaus1/blob/main/README.md)
 [Vogelhaus "Blumenkasten"]
-[Vogelhaus "Oskar"]
+[Vogelhaus "Oskar"](https://github.com/orcular-orga/vogelhaus_ws)
 [Vogelhaus "Stecksystem"](https://github.com/orcular-orga/vogelhaus2/blob/main/README.md)
 
 __Und was macht unsere Entwürfe besonders?__
