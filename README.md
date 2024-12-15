@@ -23,7 +23,7 @@ Hier sind die Links zu den Projektübersichten der anderen Vogelhäusern:
 [Vogelhaus "Ivonne"](https://github.com/orcular-orga/vogelhaus1/blob/main/README.md)
 [Vogelhaus "Blumenkasten"]
 [Vogelhaus "Oskar"]
-[Vogelhaus "Stecksystem"]
+[Vogelhaus "Stecksystem"](https://github.com/orcular-orga/vogelhaus2/blob/main/README.md)
 
 __Und was macht unsere Entwürfe besonders?__
 Besonders wichtig war uns unter anderem, dass die verwendeten Materialien möglichst nachhaltig sind und eingesetzt werden. Das heißt sie sollen wenig oder garnicht neu produziert werden müssen. Wir wollen mit Dingen arbeiten, die es schon gibt und diese wieder aufbereiten und neu verwenden. Dafür haben wir in jedem Entwurf recycelten Kunststoff aus unserer Werkstatt verwendet. Dieser besteht aus geschredderten, geschmolzenen zu Platten gepressten Alltagsgegenständen, die sonst in den Müll gewandert wären.  Außerdem sind alle Bestandtteile wieder voneinander trennbar. Es wurden keine Klebstoffe und nur wenige Schrauben verwendet. Modulare Systeme ermöglichen zusätzlich das Austauschen und ersetzen einzelner Bestandtteile, sodass die Vogelhäuser leicht repariert werden können und teilweise mehrere Funktionen und Varianten in einem Entwurf beinhalten.  
