@@ -3,8 +3,6 @@
 Hier und im folgenden ist beschrieben wie beim Bau von Vogelhaus "Ivonne" idealerweise vorgegangen werden kann. 
 Es handelt sich um begründete Vorschläge und Tipps, es gibt auch andere Möglichkeiten.
 
-Grundlegend gibt es zwei sinnvolle Möglichkeiten: 
-
 a. __Fräsen der Teile mit CNC__ Hierfür ist noch keine Datei als Vorlage angelegt. Im Ordner Dokumentation findest du die technischen Zeichnungen zu allen Bauteilen, solltest du diese erstellen wollen.
    
 b.  __Händische Bearbeitung__ mit herkömmlichen Subtraktionswerkzeugen. Dieser Ansatz ist vermutlich am sinnvollsten. Folgende Werkzeuge benötigst du idealerweise:
@@ -18,7 +16,6 @@ b.  __Händische Bearbeitung__ mit herkömmlichen Subtraktionswerkzeugen. Dieser
    - __Bohrer in der größe 2mm und 3 mm__
    - Ggf. eine __Feile u.o. Schleifpapier der Körnung 80- 200__ falls Nachbearbeitungen nötig werden sollten.
    - Ein __Hammer und Nägel__ zur Befestigung der Behausung an einem Baum.  
-
 
 c. __Vorheriges Lasern__ der Teile. Weniger sinnvoll, aber möglich ist es die Komponenten zu lasern, 
 da diese nicht nur vertikale Außenkonturen und Löcher haben, 
