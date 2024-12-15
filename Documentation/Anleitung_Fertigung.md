@@ -1,17 +1,13 @@
 # Anleitung zur Fertigung der einzelnen Bauteile
 
 Hier und im folgenden ist beschrieben wie beim Bau von Vogelhaus "Ivonne" idealerweise vorgegangen werden kann. 
-Es handelt sich um begründete Vorschläge und Tipps, es gibt auch andere Möglichkeiten
+Es handelt sich um begründete Vorschläge und Tipps, es gibt auch andere Möglichkeiten.
 
 Grundlegend gibt es zwei sinnvolle Möglichkeiten: 
-a. __Fräsen der Teile mit CNC__
 
-   Hierfür ist noch keine Datei als Vorlage angelegt. Im Ordner Dokumentation findest du die technischen Zeichnungen zu allen Bauteilen,
-   solltest du diese erstellen wollen.
+a. __Fräsen der Teile mit CNC__ Hierfür ist noch keine Datei als Vorlage angelegt. Im Ordner Dokumentation findest du die technischen Zeichnungen zu allen Bauteilen, solltest du diese erstellen wollen.
    
-b.  __Händische Bearbeitung__ mit herkömmlichen Subtraktionswerkzeugen. Dieser Ansatz ist vermutlich am sinnvollsten. 
-
-Folgende Werkzeuge benötigst du idealerweise:
+b.  __Händische Bearbeitung__ mit herkömmlichen Subtraktionswerkzeugen. Dieser Ansatz ist vermutlich am sinnvollsten. Folgende Werkzeuge benötigst du idealerweise:
 
    - Eine Sägevorrichtung die sowohl gerade als auch schräge Schnitte vollziehen kann. (Bsp. __Tischkreissäge oder Handkreissäge mit Leitwerk__)
      Die Komponenten sind teilweise relativ klein und unhandlich,
