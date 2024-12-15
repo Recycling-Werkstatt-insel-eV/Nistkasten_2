@@ -1,18 +1,18 @@
 # Aufbauanleitung
 
-Hier findet ihr die Bauanleitung von Vogelhaus "Ivonne". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolgenach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Beispiel werden 2 Baugruppen hergestellt, die schlussendlich zusammengesetzt werden. 
+Hier findet ihr die Bauanleitung von Vogelhaus "Ivonne". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolge nach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Beispiel werden 2 Baugruppen hergestellt, die schlussendlich zusammengesetzt werden. 
 
 __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 
 1. Schraubendreher oder Akkuschrauber
-3. Schraubzwingen oder eine helfende Person
+3. Schraubzwingen oder mindestens eine helfende Person
 4. Schrauben: Für den Bau der Behausung M3 zwischen 12 und 40 mm (12 Stk.)
-   und für Montage Nägel oder Schrauben M3-M5 mit einer Mindestlänge von 80 mm (2 Stk.)
+   und für die Montage Nägel oder Schrauben M3-M5 mit einer Mindestlänge von 80 mm (2 Stk.)
 5. Schleifpapier (Körnung 80-200) oder Holzpfeilen für Korrekturen oder abschließende Schönheitsarbeiten.
 
 __Baugruppe 1__ In Baugruppe 1 fertigst du den Hauptkörper des Vogelhauses. 
-__Schritt 1__ Zu Beginn werden die hölzernen Seitenwände mit der Bodenplatte verbunden. Hierzu benötigst du 3 Schraueben der Größe M3/M4 mit einer Mindestlänge von 25 mm, also mindestens 7 mm länger als die Platte dick ist (18mm)
-Tipp: Benutze einen Schraubstock, Schraubzwingen oder lasse dir beim Zsammenbau helfen, damit die Kanten der Bauteile bündig und rechtwinklig zueinander stehen, wenn du die Schrauben eindrehst. 
+__Schritt 1__ Zu Beginn werden die hölzernen Seitenwände mit der Bodenplatte verbunden. Hierzu benötigst du 3 Schraueben der Größe M3/M4 mit einer Mindestlänge von 25 mm, also mindestens 7 mm länger als die Platte dick ist (18mm).
+__Tipp:__ Benutze einen Schraubstock, Schraubzwingen oder lasse dir beim Zsammenbau helfen, damit die Kanten der Bauteile bündig und rechtwinklig zueinander stehen, wenn du die Schrauben eindrehst. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_01](https://github.com/user-attachments/assets/abe92358-e3dd-444d-bbd7-defdc0cbd7da)
 ![Anleitung_Ivonne_Vogelhaus_Seite_02](https://github.com/user-attachments/assets/df7a5327-abbf-4c99-89cb-05d04b71be24)
 __Schritt 2__ Die Bodenplatte lässt sich nun von vorne in die Baugruppe einschieben. Benutze hierfür gegebenenfalls zusätzlich Schrauben, (M3/M4, Mindestlänge 25 mm) um die Bodenplatte zu fixieren, wie im folgenden dargestellt:
