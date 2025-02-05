@@ -18,7 +18,7 @@ __Der passende Ort__
 
 Achte zudem darauf, dass du für dein Vogelhaus einen geeigneten Ort findest, wo sich die Tiere natürlicherweise wohl fühlen. 
 Es sollte dort möglichst viel unterschiedliche Vegetation geben, die für viele Lebewesen einen Rückzugsort zum Verstecken und eine wichtige Nahrungsgrundlage bietet. Nur in einem gesunden Ökosystem siedeln sich auch Vögel an um dort zu brüten. Ich denke es sollte klar sein welches der beiden folgenden Beispiele auf dem Bild geeigneter ist.  
-![](Documentation/Checkliste0.jpg)
+
 __Die richtigen Maße__
 
 Unter dem folgenden Link https://www.nabu-rlp-sued.de/artenschutz/bauanleitungen-f%C3%BCr-nisthilfen/ 
