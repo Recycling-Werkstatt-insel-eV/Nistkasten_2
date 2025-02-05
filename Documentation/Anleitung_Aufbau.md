@@ -13,8 +13,7 @@ __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 __Baugruppe 1__ In Baugruppe 1 fertigst du den Hauptkörper des Vogelhauses. 
 __Schritt 1__ Zu Beginn werden die hölzernen Seitenwände mit der Bodenplatte verbunden. Hierzu benötigst du 3 Schraueben der Größe M3/M4 mit einer Mindestlänge von 25 mm, also mindestens 7 mm länger als die Platte dick ist (18mm).
 __Tipp:__ Benutze einen Schraubstock, Schraubzwingen oder lasse dir beim Zsammenbau helfen, damit die Kanten der Bauteile bündig und rechtwinklig zueinander stehen, wenn du die Schrauben eindrehst. 
-![Anleitung_Ivonne_Vogelhaus_Seite_01](https://github.com/user-attachments/assets/abe92358-e3dd-444d-bbd7-defdc0cbd7da)
-![Anleitung_Ivonne_Vogelhaus_Seite_02](https://github.com/user-attachments/assets/df7a5327-abbf-4c99-89cb-05d04b71be24)
+![](Anleitung_Ivonne_Vogelhaus_Seite_01.jpg)
 __Schritt 2__ Die Bodenplatte lässt sich nun von vorne in die Baugruppe einschieben. Benutze hierfür gegebenenfalls zusätzlich Schrauben, (M3/M4, Mindestlänge 25 mm) um die Bodenplatte zu fixieren, wie im folgenden dargestellt:
 ![Anleitung_Ivonne_Vogelhaus_Seite_03](https://github.com/user-attachments/assets/07aca519-f682-4046-8442-ba44e1345ed4)
 ![Anleitung_Ivonne_Vogelhaus_Seite_04](https://github.com/user-attachments/assets/0bdc11e3-aec7-42e2-87a1-39868e5a6254)
