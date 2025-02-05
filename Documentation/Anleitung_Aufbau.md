@@ -16,7 +16,7 @@ __Tipp:__ Benutze einen Schraubstock, Schraubzwingen oder lasse dir beim Zsammen
 ![ ] (https://github.com/orcular-orga/vogelhaus1/blob/main/Documentation/Anleitung_Ivonne_Vogelhaus_Seite_01.jpg)
 
 __Schritt 2__ Die Bodenplatte lässt sich nun von vorne in die Baugruppe einschieben. Benutze hierfür gegebenenfalls zusätzlich Schrauben, (M3/M4, Mindestlänge 25 mm) um die Bodenplatte zu fixieren, wie im folgenden dargestellt:
-![Anleitung_Ivonne_Vogelhaus_Seite_03]()
+![Anleitung_Ivonne_Vogelhaus_Seite_03](Documentation/Anleitung_Ivonne_Vogelhaus_Seite_03.jpg)
 ![Anleitung_Ivonne_Vogelhaus_Seite_04](https://github.com/user-attachments/assets/0bdc11e3-aec7-42e2-87a1-39868e5a6254)
 __Schritt 3__ Anschließend werden die länglichen Kunststoffstreifen (282/20/5 mm) von oben in die Nuten der Seitenwände geschoben. Achte darauf, dass diese richtig einrasten und nicht überstehen. 
 ![Anleitung_Ivonne_Vogelhaus_Seite_05](https://github.com/user-attachments/assets/ed380735-4216-464a-8b92-2b9ac171e2eb)
