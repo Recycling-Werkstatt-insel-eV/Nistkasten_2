@@ -34,15 +34,15 @@ __Zusamnenfügen der Baugruppen 1 und 2__
 
 __Schritt 7__ Du kannst nun folgendermaßen das Dach auf den Hauptkörper setzen. Achte darauf, dass die eingefräste Kante des Daches und die Rückwand eine vertikale Linie bilden, damit sich das Kunststoffbrett zur Montage abstandslos befestigen lässt. 
 ![](Anleitung_Ivonne_Vogelhaus_Seite_12.jpg)
-![](Anleitung_Ivonne_Vogelhaus_Seite_13.jpg)
 __Schritt 8__ Schraube nun mit 2 M3 Schrauben des Länge 25-28 mm das hintere Brett aus Kunststoff fest. Achte daruaf, dass die Nägel nicht kürzer oder länger als angegeben sind, damit die Konstruktion fest genug hält, die Nägel aber nicht ins Innere der Behausung durchragen. 
+![](Anleitung_Ivonne_Vogelhaus_Seite_13.jpg)
 ![](Anleitung_Ivonne_Vogelhaus_Seite_14.jpg)
 ![](Anleitung_Ivonne_Vogelhaus_Seite_15.jpg)
 Dein Vogelhaus ist nun __fertig__ aufgebaut.
 
 __Montage__ Jetzt geht es nur noch um die richtige Befestigung beim Aufhängen an einem geeigneten Baum oder bspw. einer Hauswand. Benutze - solltest du dich für einen Baum entscheiden-  wenn möglich Aluminiumnägel mit einer Länge von mindestens 80 mm. Nägel aus Eisen sind aber auch in Ordnung. 
-
-
+![](Anleitung_Ivonne_Vogelhaus_Seite_16.jpg)
+![](Anleitung_Ivonne_Vogelhaus_Seite_17.jpg)
 
 
 
