@@ -17,7 +17,8 @@ __Tipp:__ Benutze einen Schraubstock, Schraubzwingen oder lasse dir beim Zsammen
 ![](Anleitung_Ivonne_Vogelhaus_Seite_02.jpg)
 
 __Schritt 2__ Die Bodenplatte lässt sich nun von vorne in die Baugruppe einschieben. Benutze hierfür gegebenenfalls zusätzlich Schrauben, (M3/M4, Mindestlänge 25 mm) um die Bodenplatte zu fixieren, wie im folgenden dargestellt:
-
+![](Anleitung_Ivonne_Vogelhaus_Seite_03.jpg)
+![](Anleitung_Ivonne_Vogelhaus_Seite_04.jpg)
 __Schritt 3__ Anschließend werden die länglichen Kunststoffstreifen (282/20/5 mm) von oben in die Nuten der Seitenwände geschoben. Achte darauf, dass diese richtig einrasten und nicht überstehen. 
 
 __Schritt 4__ Jetzt kannst du 2 der dünnen Kunstoffstreifen (168/8/8 mm) mit jeweils 2 Schrauben der Größe M3, Länge zwischen 12 und 25 mm befestigen. 
