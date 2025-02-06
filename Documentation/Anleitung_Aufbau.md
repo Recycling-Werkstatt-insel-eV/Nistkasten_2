@@ -20,7 +20,7 @@ __Schritt 2__ Die Bodenplatte lässt sich nun von vorne in die Baugruppe einschi
 ![](Anleitung_Ivonne_Vogelhaus_Seite_03.jpg)
 ![](Anleitung_Ivonne_Vogelhaus_Seite_04.jpg)
 __Schritt 3__ Anschließend werden die länglichen Kunststoffstreifen (282/20/5 mm) von oben in die Nuten der Seitenwände geschoben. Achte darauf, dass diese richtig einrasten und nicht überstehen. 
-
+![](Anleitung_Ivonne_Vogelhaus_Seite_05.jpg)
 __Schritt 4__ Jetzt kannst du 2 der dünnen Kunstoffstreifen (168/8/8 mm) mit jeweils 2 Schrauben der Größe M3, Länge zwischen 12 und 25 mm befestigen. 
 
 __Schritt 5__ Nun schiebe die Teilstücke der Frontwand in die entstandene Halterung. Achte auch hier darauf, dass kein Teil übersteht, aber auch keine größeren Lücken entstehen.
