@@ -7,7 +7,7 @@ __Du möchtest dieses Vogelhaus bauen?__
 
 Um dieses Vogelhaus nach unserer Methode zu bauen, sieh dir bitte folgende Dokumente an: 
 
-Zum einen empfehlen wir einen Blick in die [Ckeckliste](./Documentation/Checkliste.md) zu werfen um dir einen Überblick zu machen was es allgemein zu beachten gilt. Anschließend lohnt es sich unseren Vorschlag für die [Fertigung der Einzelteile](./Documentation/Anleitung_Fertigung.md) gewissenhaft zu befolgen, damit die [Anleitung für den Zusammenbau](./Documentation/Anleitung_Aufbau.md) der Einzelteile reibungslos funktioniert. Ergänzend kannst du dir die [Technischen Zeichnungen](./Documentation/Vogelhaus_Ivonne_Technische_Zeichnungen.pdf) dieses Vogelhauses anschauen. Gerade für den Fall, dass du den Entwurf weiterentwickeln möchtest, steht dir jeweils eine [CAD-Datei im STEP Format](./CAD/CAD_Ivonne_Vogelhaus.STEP) und eine
+Zum einen empfehlen wir einen Blick in die [Checkliste](./Documentation/Checkliste.md) zu werfen um dir einen Überblick zu machen was es allgemein zu beachten gilt. Anschließend lohnt es sich unseren Vorschlag für die [Fertigung der Einzelteile](./Documentation/Anleitung_Fertigung.md) gewissenhaft zu befolgen, damit die [Anleitung für den Zusammenbau](./Documentation/Anleitung_Aufbau.md) der Einzelteile reibungslos funktioniert. Ergänzend kannst du dir die [Technischen Zeichnungen](./Documentation/Vogelhaus_Ivonne_Technische_Zeichnungen.pdf) dieses Vogelhauses anschauen. Gerade für den Fall, dass du den Entwurf weiterentwickeln möchtest, steht dir jeweils eine [CAD-Datei im STEP Format](./CAD/CAD_Ivonne_Vogelhaus.STEP) und eine
 [CAD Datei im STL Format](./3D_printing/CAD_Ivonne_Vogelhaus.STL) zur Verfügung. 
 
 # Allgemeines zum Projekt
