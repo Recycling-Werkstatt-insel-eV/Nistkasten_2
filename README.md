@@ -1,4 +1,4 @@
-# Vogelhaus "Ivonne"
+# Nistkasten Nr. 2
 Bei diesem Vogelhaus bestehen sind alle Materialien entweder wiederverwendbar oder wiederaufbereitet und somit auf jeden Fall nachhaltig und umweltfreundlich. Die Vorderseite ist so konstruiert, dass jede Behausung ein Unikat wird. Die einzelnen Platten sind verschieblich. Das und die Tatsache, dass alle Komponenten verschraubt sind, macht es komplett auseinandernehmbar. Teile können somit leicht ersetzt, ausgetauscht und gereinigt werden. Je nach Vogelart, ob Höhlen- oder Halbhöhlenbrüter kann die Öffnung der Vogelart angepasst werden. Die Kombination aus recyceltem Kunstoff und Holz erzeugt einen echten Hinkucker. 
 
 ![](Documentation/Deckbild.jpg)
