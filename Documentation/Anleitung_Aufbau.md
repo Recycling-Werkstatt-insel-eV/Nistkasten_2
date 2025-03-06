@@ -1,6 +1,6 @@
 # Aufbauanleitung
 
-Hier findet ihr die Bauanleitung von Vogelhaus "Ivonne". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolge nach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Beispiel werden 2 Baugruppen hergestellt, die schlussendlich zusammengesetzt werden. 
+Hier findet ihr die Bauanleitung von Vogelhaus Nr. 2. Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht, die Teile zusammenzusetzen. Die Reihenfolge nach dem folgenden Prinzip ist sehr wichtig, damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Beispiel werden 2 Baugruppen hergestellt, die am Ende zusammengesetzt werden. 
 
 __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 
